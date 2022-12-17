@@ -1,0 +1,120 @@
+{
+    "Header": {
+
+        "title": "We are Web Therapist",
+        "paragraph": "We are an online platform which provides you free online therapies which can give you awesome results"
+
+    },
+    "About": {
+        "paragraph": "WEB THERAPIST is an online platform which provides every user a facility to burst out their mental stress, and we at WEB THERAPIST use zero physical contact therapies.And you can get all of our services at ZERO costing",
+        "Why": [
+            "Quick Stress Relief",
+            "Zero-contact",
+            "Zero-costing",
+            "No appointments needed"
+        ],
+        "Why2": [
+            "No usage limit",
+            "Awesome ChatBot",
+            "Motivating Quotes",
+            "Progress tracking"
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-comments-o",
+            "name": "ChatBot",
+            "text": "You can talk to our chat bot which can help you get relief from your stress"
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "name": "Notification Mind Boosting",
+            "text": "We provide notification popups on your screen which makes you motivated and happier"
+        },
+        {
+            "icon": "fa fa-bug",
+            "name": "Stress Busrting Game",
+            "text": "We provide an amazing stress bursting game"
+        }       
+
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "John Doe",
+            "job": "Director"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Mike Doe",
+            "job": "Senior Designer"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Jane Doe",
+            "job": "Senior Designer"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Karen Doe",
+            "job": "Project Manager"
+        }
+    ],
+    "Contact": {
+        "address": "4321 California St, San Francisco, CA 12345 ",
+        "phone": "+1 123 456 1234",
+        "email": "info@company.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Features": [{
+            "icon": "fa fa-comments-o",
+            "title": "ChatBot",
+            "text": "Our ChatBot will understand you for sure and will give you a peacefull session"
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "title": "Cheering",
+            "text": "Notification to cheer and build positive thoughts"
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "Progress tracking",
+            "text": "We allows every user to track their mind's improvement progress"
+        },
+        {
+            "icon": "fa fa-phone",
+            "title": "Get Connected",
+            "text": "One-click call to the therapist"
+        }
+    ]
+}
